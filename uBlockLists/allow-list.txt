@@ -404,3 +404,5 @@ yts.homes
 zap-hosting.com
 media.prod-v2.mym.fans
 mym.fans
+cdn2.onlyfans.com
+onlyfans.com
