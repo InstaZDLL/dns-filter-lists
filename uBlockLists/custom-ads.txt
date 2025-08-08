@@ -1,5 +1,4 @@
 s.youtube.com
-youtubei.googleapis.com
 fingerprintjs.com
 api.honeybadger.io
 api.raygun.com
