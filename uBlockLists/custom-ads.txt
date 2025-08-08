@@ -5,9 +5,7 @@ cdn.raygun.io
 errorreporting.googleapis.com
 trace.googleapis.com
 logging.googleapis.com
-graph.facebook.com
 connect.facebook.net
-graph.instagram.com
 snap.licdn.com
 pixel.quora.com
 ads.vk.com
