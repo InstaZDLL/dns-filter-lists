@@ -406,3 +406,11 @@ media.prod-v2.mym.fans
 mym.fans
 cdn2.onlyfans.com
 onlyfans.com
+tracker.p2p-world.net
+connect.maxp2p.org
+connect.drago-tracker.cc
+tracker.loadpeers.org
+connect.drago-server.org
+connect.drago-server.org
+serv.supertracker.org
+p2p.yggtracking.org
