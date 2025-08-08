@@ -1,5 +1,4 @@
 s.youtube.com
-redirector.googlevideo.com
 youtubei.googleapis.com
 fingerprintjs.com
 api.honeybadger.io
