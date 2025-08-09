@@ -414,3 +414,4 @@ connect.drago-server.org
 connect.drago-server.org
 serv.supertracker.org
 p2p.yggtracking.org
+video-fa.scdn.co
